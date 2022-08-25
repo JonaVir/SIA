@@ -1,0 +1,3 @@
+# Las siguientes carpetas seran ignoradas por git
+
+**/bin
