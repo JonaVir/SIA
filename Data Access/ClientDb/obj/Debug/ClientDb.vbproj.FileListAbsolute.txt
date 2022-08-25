@@ -1,0 +1,12 @@
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\Conexion\ClientDb\bin\Debug\ClientDb.exe
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\Conexion\ClientDb\bin\Debug\ClientDb.pdb
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\Conexion\ClientDb\bin\Debug\ClientDb.xml
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\Conexion\ClientDb\obj\Debug\ClientDb.vbproj.AssemblyReference.cache
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\Conexion\ClientDb\obj\Debug\ClientDb.Resources.resources
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\Conexion\ClientDb\obj\Debug\ClientDb.vbproj.GenerateResource.cache
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\Conexion\ClientDb\obj\Debug\ClientDb.vbproj.CoreCompileInputs.cache
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\Conexion\ClientDb\obj\Debug\ClientDb.exe
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\Conexion\ClientDb\obj\Debug\ClientDb.xml
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\Conexion\ClientDb\obj\Debug\ClientDb.pdb
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\Conexion\ClientDb\bin\Debug\ClientDb.exe.config
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\Conexion\ClientDb\obj\Debug\ClientDb.Form1.resources

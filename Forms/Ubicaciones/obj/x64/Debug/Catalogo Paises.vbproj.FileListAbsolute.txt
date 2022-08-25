@@ -1,0 +1,20 @@
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\bin\x64\Debug\Catalogo Paises.exe.config
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\bin\x64\Debug\Catalogo Paises.exe
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\bin\x64\Debug\Catalogo Paises.pdb
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\bin\x64\Debug\Catalogo Paises.xml
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\bin\x64\Debug\CustomControls.dll
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\bin\x64\Debug\locationsDB.dll
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\bin\x64\Debug\CustomControls.pdb
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\bin\x64\Debug\CustomControls.xml
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\bin\x64\Debug\CustomControls.dll.config
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\bin\x64\Debug\locationsDB.pdb
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\bin\x64\Debug\locationsDB.xml
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\obj\x64\Debug\Catalogo_Paises.Form1.resources
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\obj\x64\Debug\Catalogo_Paises.FrmCatalogCountries.resources
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\obj\x64\Debug\Catalogo_Paises.Resources.resources
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\obj\x64\Debug\Catalogo Paises.vbproj.GenerateResource.cache
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\obj\x64\Debug\Catalogo Paises.vbproj.CoreCompileInputs.cache
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\obj\x64\Debug\Catalogo Paises.vbproj.CopyComplete
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\obj\x64\Debug\Catalogo Paises.exe
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\obj\x64\Debug\Catalogo Paises.xml
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\obj\x64\Debug\Catalogo Paises.pdb

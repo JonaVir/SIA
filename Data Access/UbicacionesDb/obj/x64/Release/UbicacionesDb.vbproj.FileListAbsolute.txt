@@ -1,0 +1,23 @@
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\Puente Conexión\UbicacionesDb\bin\x64\Release\locationsDB.dll
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\Puente Conexión\UbicacionesDb\bin\x64\Release\locationsDB.pdb
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\Puente Conexión\UbicacionesDb\bin\x64\Release\locationsDB.xml
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\Puente Conexión\UbicacionesDb\obj\x64\Release\LocationsDb.Resources.resources
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\Puente Conexión\UbicacionesDb\obj\x64\Release\UbicacionesDb.vbproj.GenerateResource.cache
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\Puente Conexión\UbicacionesDb\obj\x64\Release\UbicacionesDb.vbproj.CoreCompileInputs.cache
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\Puente Conexión\UbicacionesDb\obj\x64\Release\locationsDB.dll
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\Puente Conexión\UbicacionesDb\obj\x64\Release\locationsDB.xml
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\Puente Conexión\UbicacionesDb\obj\x64\Release\locationsDB.pdb
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\Archivos del programa\locationsDB.dll
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\Archivos del programa\locationsDB.pdb
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\Archivos del programa\locationsDB.xml
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\Puente Conexión\UbicacionesDb\obj\x64\Release\UbicacionesDb.vbproj.AssemblyReference.cache
+C:\Users\Informatica\Downloads\Catalogo Ubicaciones\Archivos del programa\locationsDB.dll
+C:\Users\Informatica\Downloads\Catalogo Ubicaciones\Archivos del programa\locationsDB.pdb
+C:\Users\Informatica\Downloads\Catalogo Ubicaciones\Archivos del programa\locationsDB.xml
+C:\Users\Informatica\Downloads\Catalogo Ubicaciones\Puente Conexión\UbicacionesDb\obj\x64\Release\UbicacionesDb.vbproj.AssemblyReference.cache
+C:\Users\Informatica\Downloads\Catalogo Ubicaciones\Puente Conexión\UbicacionesDb\obj\x64\Release\LocationsDb.Resources.resources
+C:\Users\Informatica\Downloads\Catalogo Ubicaciones\Puente Conexión\UbicacionesDb\obj\x64\Release\UbicacionesDb.vbproj.GenerateResource.cache
+C:\Users\Informatica\Downloads\Catalogo Ubicaciones\Puente Conexión\UbicacionesDb\obj\x64\Release\UbicacionesDb.vbproj.CoreCompileInputs.cache
+C:\Users\Informatica\Downloads\Catalogo Ubicaciones\Puente Conexión\UbicacionesDb\obj\x64\Release\locationsDB.dll
+C:\Users\Informatica\Downloads\Catalogo Ubicaciones\Puente Conexión\UbicacionesDb\obj\x64\Release\locationsDB.xml
+C:\Users\Informatica\Downloads\Catalogo Ubicaciones\Puente Conexión\UbicacionesDb\obj\x64\Release\locationsDB.pdb

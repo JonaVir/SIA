@@ -1,0 +1,42 @@
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Release\Catalogo Clientes.vbproj.AssemblyReference.cache
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Release\CustomerCatalog.Form1.resources
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Release\CustomerCatalog.FrmBankReferences.resources
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Release\CustomerCatalog.FrmClients.resources
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Release\CustomerCatalog.FrmContacts.resources
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Release\CustomerCatalog.FrmExportData.resources
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Release\CustomerCatalog.FrmFinancialData.resources
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Release\CustomerCatalog.FrmNewClient.resources
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Release\CustomerCatalog.FrmSelectClient.resources
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Release\CustomerCatalog.FrmTaxData.resources
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Release\CustomerCatalog.Resources.resources
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Release\Catalogo Clientes.vbproj.GenerateResource.cache
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Release\Catalogo Clientes.vbproj.CoreCompileInputs.cache
+C:\Users\Informatica\Downloads\SIA(Copia local)\Archivos del programa\CustomerCatalog.dll.config
+C:\Users\Informatica\Downloads\SIA(Copia local)\Archivos del programa\CustomerCatalog.dll
+C:\Users\Informatica\Downloads\SIA(Copia local)\Archivos del programa\CustomerCatalog.pdb
+C:\Users\Informatica\Downloads\SIA(Copia local)\Archivos del programa\CustomerCatalog.xml
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Release\Catalogo Clientes.vbproj.CopyComplete
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Release\CustomerCatalog.dll
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Release\CustomerCatalog.xml
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Release\CustomerCatalog.pdb
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Archivos del programa\CustomerCatalog.dll.config
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Archivos del programa\CustomerCatalog.dll
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Archivos del programa\CustomerCatalog.pdb
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Archivos del programa\CustomerCatalog.xml
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Release\Catalogo Clientes.vbproj.AssemblyReference.cache
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Release\CustomerCatalog.Form1.resources
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Release\CustomerCatalog.FrmBankReferences.resources
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Release\CustomerCatalog.FrmClients.resources
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Release\CustomerCatalog.FrmContacts.resources
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Release\CustomerCatalog.FrmExportData.resources
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Release\CustomerCatalog.FrmFinancialData.resources
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Release\CustomerCatalog.FrmNewClient.resources
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Release\CustomerCatalog.FrmSelectClient.resources
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Release\CustomerCatalog.FrmTaxData.resources
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Release\CustomerCatalog.Resources.resources
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Release\Catalogo Clientes.vbproj.GenerateResource.cache
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Release\Catalogo Clientes.vbproj.CoreCompileInputs.cache
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Release\Catalogo Clientes.vbproj.CopyComplete
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Release\CustomerCatalog.dll
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Release\CustomerCatalog.xml
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Release\CustomerCatalog.pdb

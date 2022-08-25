@@ -1,0 +1,225 @@
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\bin\Debug\Catalogo Clientes.exe.config
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\bin\Debug\Catalogo Clientes.exe
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\bin\Debug\Catalogo Clientes.pdb
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\bin\Debug\Catalogo Clientes.xml
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\bin\Debug\CustomControls.dll
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\bin\Debug\CustomControls.pdb
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\bin\Debug\CustomControls.xml
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\bin\Debug\CustomControls.dll.config
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\obj\Debug\Catalogo Clientes.vbproj.AssemblyReference.cache
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\obj\Debug\Catalogo_Clientes.Form1.resources
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\obj\Debug\Catalogo_Clientes.FrmClients.resources
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\obj\Debug\Catalogo_Clientes.Resources.resources
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\obj\Debug\Catalogo Clientes.vbproj.GenerateResource.cache
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\obj\Debug\Catalogo Clientes.vbproj.CoreCompileInputs.cache
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\obj\Debug\Catalogo Clientes.vbproj.CopyComplete
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\obj\Debug\Catalogo Clientes.exe
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\obj\Debug\Catalogo Clientes.xml
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\obj\Debug\Catalogo Clientes.pdb
+C:\Users\Informatica\Downloads\Catalogo Clientes\bin\Debug\Catalogo Clientes.exe.config
+C:\Users\Informatica\Downloads\Catalogo Clientes\bin\Debug\Catalogo Clientes.exe
+C:\Users\Informatica\Downloads\Catalogo Clientes\bin\Debug\Catalogo Clientes.pdb
+C:\Users\Informatica\Downloads\Catalogo Clientes\bin\Debug\Catalogo Clientes.xml
+C:\Users\Informatica\Downloads\Catalogo Clientes\bin\Debug\CustomControls.pdb
+C:\Users\Informatica\Downloads\Catalogo Clientes\bin\Debug\CustomControls.xml
+C:\Users\Informatica\Downloads\Catalogo Clientes\bin\Debug\CustomControls.dll.config
+C:\Users\Informatica\Downloads\Catalogo Clientes\obj\Debug\Catalogo Clientes.vbproj.AssemblyReference.cache
+C:\Users\Informatica\Downloads\Catalogo Clientes\obj\Debug\Catalogo_Clientes.Form1.resources
+C:\Users\Informatica\Downloads\Catalogo Clientes\obj\Debug\Catalogo_Clientes.FrmClients.resources
+C:\Users\Informatica\Downloads\Catalogo Clientes\obj\Debug\Catalogo_Clientes.Resources.resources
+C:\Users\Informatica\Downloads\Catalogo Clientes\obj\Debug\Catalogo Clientes.vbproj.GenerateResource.cache
+C:\Users\Informatica\Downloads\Catalogo Clientes\obj\Debug\Catalogo Clientes.vbproj.CoreCompileInputs.cache
+C:\Users\Informatica\Downloads\Catalogo Clientes\obj\Debug\Catalogo Clientes.vbproj.CopyComplete
+C:\Users\Informatica\Downloads\Catalogo Clientes\obj\Debug\Catalogo Clientes.exe
+C:\Users\Informatica\Downloads\Catalogo Clientes\obj\Debug\Catalogo Clientes.xml
+C:\Users\Informatica\Downloads\Catalogo Clientes\obj\Debug\Catalogo Clientes.pdb
+C:\Users\Informatica\Downloads\Catalogo Clientes\obj\Debug\Catalogo_Clientes.FrmSelectClient.resources
+C:\Users\Informatica\Downloads\Catalogo Clientes\obj\Debug\Catalogo_Clientes.FrmNewClient.resources
+C:\Users\Informatica\Downloads\Catalogo Clientes\obj\Debug\Catalogo_Clientes.FrmTaxData.resources
+C:\Users\Informatica\Downloads\Catalogo Clientes\obj\Debug\Catalogo_Clientes.FrmContacts.resources
+C:\Users\Informatica\Downloads\Catalogo Clientes\obj\Debug\Catalogo_Clientes.FrmFinancialData.resources
+C:\Users\Informatica\Downloads\Catalogo Clientes\obj\Debug\Catalogo_Clientes.FrmBankReferences.resources
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\obj\Debug\Catalogo Clientes.vbproj.AssemblyReference.cache
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\obj\Debug\Catalogo_Clientes.Form1.resources
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\obj\Debug\Catalogo_Clientes.FrmBankReferences.resources
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\obj\Debug\Catalogo_Clientes.FrmClients.resources
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\obj\Debug\Catalogo_Clientes.FrmContacts.resources
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\obj\Debug\Catalogo_Clientes.FrmFinancialData.resources
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\obj\Debug\Catalogo_Clientes.FrmNewClient.resources
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\obj\Debug\Catalogo_Clientes.FrmSelectClient.resources
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\obj\Debug\Catalogo_Clientes.FrmTaxData.resources
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\obj\Debug\Catalogo_Clientes.Resources.resources
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\obj\Debug\Catalogo Clientes.vbproj.GenerateResource.cache
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\obj\Debug\Catalogo Clientes.vbproj.CoreCompileInputs.cache
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\obj\Debug\Catalogo Clientes.exe
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\obj\Debug\Catalogo Clientes.xml
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\obj\Debug\Catalogo Clientes.pdb
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\Catalogo Clientes.vbproj.AssemblyReference.cache
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\Catalogo_Clientes.Form1.resources
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\Catalogo_Clientes.FrmBankReferences.resources
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\Catalogo_Clientes.FrmClients.resources
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\Catalogo_Clientes.FrmContacts.resources
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\Catalogo_Clientes.FrmFinancialData.resources
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\Catalogo_Clientes.FrmNewClient.resources
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\Catalogo_Clientes.FrmSelectClient.resources
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\Catalogo_Clientes.FrmTaxData.resources
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\Catalogo_Clientes.Resources.resources
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\Catalogo Clientes.vbproj.GenerateResource.cache
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\Catalogo Clientes.vbproj.CoreCompileInputs.cache
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\Catalogo Clientes.exe
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\Catalogo Clientes.xml
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\Catalogo Clientes.pdb
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\Catalogo Clientes.exe.config
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\Catalogo Clientes.exe
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\Catalogo Clientes.pdb
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\Catalogo Clientes.xml
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\ClientDb.dll
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\locationsDB.dll
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\stdole.dll
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\ClientDb.pdb
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\ClientDb.xml
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CustomControls.pdb
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CustomControls.xml
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CustomControls.dll.config
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\locationsDB.pdb
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\locationsDB.xml
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\Catalogo Clientes.vbproj.CopyComplete
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\bin\Debug\Catalogo Clientes.exe.config
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\bin\Debug\Catalogo Clientes.exe
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\bin\Debug\Catalogo Clientes.pdb
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\bin\Debug\Catalogo Clientes.xml
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\bin\Debug\ClientDb.dll
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\bin\Debug\locationsDB.dll
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\bin\Debug\stdole.dll
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\bin\Debug\ClientDb.pdb
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\bin\Debug\ClientDb.xml
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\bin\Debug\CustomControls.pdb
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\bin\Debug\CustomControls.xml
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\bin\Debug\CustomControls.dll.config
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\bin\Debug\locationsDB.pdb
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\bin\Debug\locationsDB.xml
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\obj\Debug\Catalogo Clientes.vbproj.CopyComplete
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\ClientDb.dll
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\locationsDB.dll
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\stdole.dll
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\ClientDb.pdb
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\ClientDb.xml
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CustomControls.pdb
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CustomControls.xml
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CustomControls.dll.config
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\locationsDB.pdb
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\locationsDB.xml
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\Catalogo Clientes.vbproj.AssemblyReference.cache
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\Catalogo Clientes.vbproj.GenerateResource.cache
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\Catalogo Clientes.vbproj.CoreCompileInputs.cache
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\Catalogo Clientes.vbproj.CopyComplete
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\ClientDb.dll.config
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\ClientDb.dll
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\locationsDB.dll
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\stdole.dll
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\ClientDb.pdb
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\ClientDb.xml
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\ClientDb.dll.config
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CustomControls.pdb
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CustomControls.xml
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CustomControls.dll.config
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\locationsDB.pdb
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\locationsDB.xml
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\Catalogo Clientes.vbproj.AssemblyReference.cache
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\Catalogo Clientes.vbproj.GenerateResource.cache
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\Catalogo Clientes.vbproj.CoreCompileInputs.cache
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\Catalogo Clientes.vbproj.CopyComplete
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CustomerCatalog.exe.config
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CustomerCatalog.exe
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CustomerCatalog.pdb
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CustomerCatalog.xml
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\CustomerCatalog.Form1.resources
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\CustomerCatalog.FrmBankReferences.resources
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\CustomerCatalog.FrmClients.resources
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\CustomerCatalog.FrmContacts.resources
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\CustomerCatalog.FrmExportData.resources
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\CustomerCatalog.FrmFinancialData.resources
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\CustomerCatalog.FrmNewClient.resources
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\CustomerCatalog.FrmSelectClient.resources
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\CustomerCatalog.FrmTaxData.resources
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\CustomerCatalog.Resources.resources
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\CustomerCatalog.exe
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\CustomerCatalog.xml
+C:\Users\Informatica\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\CustomerCatalog.pdb
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CustomerCatalog.exe.config
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CustomerCatalog.exe
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CustomerCatalog.pdb
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\bin\Debug\CustomerCatalog.xml
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\CustomerCatalog.Form1.resources
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\CustomerCatalog.FrmBankReferences.resources
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\CustomerCatalog.FrmClients.resources
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\CustomerCatalog.FrmContacts.resources
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\CustomerCatalog.FrmExportData.resources
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\CustomerCatalog.FrmFinancialData.resources
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\CustomerCatalog.FrmNewClient.resources
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\CustomerCatalog.FrmSelectClient.resources
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\CustomerCatalog.FrmTaxData.resources
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\CustomerCatalog.Resources.resources
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\CustomerCatalog.exe
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\CustomerCatalog.xml
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\pantallas\obj\Debug\CustomerCatalog.pdb

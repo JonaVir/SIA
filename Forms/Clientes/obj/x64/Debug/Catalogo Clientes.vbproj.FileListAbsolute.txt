@@ -1,0 +1,24 @@
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\obj\x64\Debug\Catalogo Clientes.vbproj.AssemblyReference.cache
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\obj\x64\Debug\Catalogo_Clientes.Form1.resources
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\obj\x64\Debug\Catalogo_Clientes.FrmBankReferences.resources
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\obj\x64\Debug\Catalogo_Clientes.FrmClients.resources
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\obj\x64\Debug\Catalogo_Clientes.FrmContacts.resources
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\obj\x64\Debug\Catalogo_Clientes.FrmFinancialData.resources
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\obj\x64\Debug\Catalogo_Clientes.FrmNewClient.resources
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\obj\x64\Debug\Catalogo_Clientes.FrmSelectClient.resources
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\obj\x64\Debug\Catalogo_Clientes.FrmTaxData.resources
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\obj\x64\Debug\Catalogo_Clientes.Resources.resources
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\obj\x64\Debug\Catalogo Clientes.vbproj.GenerateResource.cache
+C:\Users\Informatica\Downloads\Catalogo Clientes\pantallas\obj\x64\Debug\Catalogo Clientes.vbproj.CoreCompileInputs.cache
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\obj\x64\Debug\Catalogo Clientes.vbproj.AssemblyReference.cache
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\obj\x64\Debug\Catalogo_Clientes.Form1.resources
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\obj\x64\Debug\Catalogo_Clientes.FrmBankReferences.resources
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\obj\x64\Debug\Catalogo_Clientes.FrmClients.resources
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\obj\x64\Debug\Catalogo_Clientes.FrmContacts.resources
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\obj\x64\Debug\Catalogo_Clientes.FrmFinancialData.resources
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\obj\x64\Debug\Catalogo_Clientes.FrmNewClient.resources
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\obj\x64\Debug\Catalogo_Clientes.FrmSelectClient.resources
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\obj\x64\Debug\Catalogo_Clientes.FrmTaxData.resources
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\obj\x64\Debug\Catalogo_Clientes.Resources.resources
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\obj\x64\Debug\Catalogo Clientes.vbproj.GenerateResource.cache
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\pantallas\obj\x64\Debug\Catalogo Clientes.vbproj.CoreCompileInputs.cache

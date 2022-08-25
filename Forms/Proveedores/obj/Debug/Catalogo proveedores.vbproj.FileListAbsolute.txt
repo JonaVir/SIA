@@ -1,0 +1,48 @@
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Forms\Proveedores\obj\Debug\Catalogo proveedores.vbproj.AssemblyReference.cache
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Forms\Proveedores\obj\Debug\Catalogo_proveedores.Form1.resources
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Forms\Proveedores\obj\Debug\Catalogo_proveedores.FrmProveedores.resources
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Forms\Proveedores\obj\Debug\Catalogo_proveedores.Resources.resources
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Forms\Proveedores\obj\Debug\Catalogo proveedores.vbproj.GenerateResource.cache
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Forms\Proveedores\obj\Debug\Catalogo proveedores.vbproj.CoreCompileInputs.cache
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Forms\Proveedores\bin\Debug\Catalogo proveedores.exe.config
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Forms\Proveedores\bin\Debug\Catalogo proveedores.exe
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Forms\Proveedores\bin\Debug\Catalogo proveedores.pdb
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Forms\Proveedores\bin\Debug\Catalogo proveedores.xml
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Forms\Proveedores\bin\Debug\CustomControls.dll
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Forms\Proveedores\bin\Debug\CustomControls.pdb
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Forms\Proveedores\bin\Debug\CustomControls.xml
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Forms\Proveedores\bin\Debug\CustomControls.dll.config
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Forms\Proveedores\obj\Debug\Catalogo proveedores.vbproj.CopyComplete
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Forms\Proveedores\obj\Debug\Catalogo proveedores.exe
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Forms\Proveedores\obj\Debug\Catalogo proveedores.xml
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Forms\Proveedores\obj\Debug\Catalogo proveedores.pdb
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\bin\Debug\Catalogo proveedores.exe.config
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\bin\Debug\Catalogo proveedores.exe
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\bin\Debug\Catalogo proveedores.pdb
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\bin\Debug\Catalogo proveedores.xml
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\bin\Debug\locationsDB.dll
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\bin\Debug\ProveedoresDb.dll
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\bin\Debug\CustomControls.pdb
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\bin\Debug\CustomControls.xml
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\bin\Debug\CustomControls.dll.config
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\bin\Debug\locationsDB.pdb
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\bin\Debug\locationsDB.xml
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\bin\Debug\ProveedoresDb.pdb
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\bin\Debug\ProveedoresDb.xml
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\obj\Debug\Catalogo proveedores.vbproj.AssemblyReference.cache
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\obj\Debug\Catalogo_proveedores.Form1.resources
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\obj\Debug\Catalogo_proveedores.FrmProveedores.resources
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\obj\Debug\Catalogo_proveedores.Resources.resources
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\obj\Debug\Catalogo proveedores.vbproj.GenerateResource.cache
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\obj\Debug\Catalogo proveedores.vbproj.CoreCompileInputs.cache
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\obj\Debug\Catalogo proveedores.vbproj.CopyComplete
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\obj\Debug\Catalogo proveedores.exe
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\obj\Debug\Catalogo proveedores.xml
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\obj\Debug\Catalogo proveedores.pdb
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Forms\Proveedores\bin\Debug\locationsDB.dll
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Forms\Proveedores\bin\Debug\ProveedoresDb.dll
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Forms\Proveedores\bin\Debug\locationsDB.pdb
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Forms\Proveedores\bin\Debug\locationsDB.xml
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Forms\Proveedores\bin\Debug\ProveedoresDb.pdb
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Forms\Proveedores\bin\Debug\ProveedoresDb.xml
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\obj\Debug\Catalogo_proveedores.FrmSelectSuppliers.resources

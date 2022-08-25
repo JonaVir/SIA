@@ -1,0 +1,9 @@
+C:\Users\Informatica\Downloads\SIA(Copia local)\Archivos del programa\ProveedoresDb.dll
+C:\Users\Informatica\Downloads\SIA(Copia local)\Archivos del programa\ProveedoresDb.pdb
+C:\Users\Informatica\Downloads\SIA(Copia local)\Archivos del programa\ProveedoresDb.xml
+C:\Users\Informatica\Downloads\SIA(Copia local)\Data Access\ProveedoresDb\obj\Release\ProveedoresDb.Resources.resources
+C:\Users\Informatica\Downloads\SIA(Copia local)\Data Access\ProveedoresDb\obj\Release\ProveedoresDb.vbproj.GenerateResource.cache
+C:\Users\Informatica\Downloads\SIA(Copia local)\Data Access\ProveedoresDb\obj\Release\ProveedoresDb.vbproj.CoreCompileInputs.cache
+C:\Users\Informatica\Downloads\SIA(Copia local)\Data Access\ProveedoresDb\obj\Release\ProveedoresDb.dll
+C:\Users\Informatica\Downloads\SIA(Copia local)\Data Access\ProveedoresDb\obj\Release\ProveedoresDb.xml
+C:\Users\Informatica\Downloads\SIA(Copia local)\Data Access\ProveedoresDb\obj\Release\ProveedoresDb.pdb

@@ -1,0 +1,19 @@
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\Archivos del programa\Locations.dll.config
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\Archivos del programa\Locations.dll
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\Archivos del programa\Locations.pdb
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\Archivos del programa\Locations.xml
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\Archivos del programa\CustomControls.dll
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\Archivos del programa\CustomControls.pdb
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\Archivos del programa\CustomControls.xml
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\Archivos del programa\CustomControls.dll.config
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\Archivos del programa\locationsDB.pdb
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\Archivos del programa\locationsDB.xml
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\obj\x64\Release\Locations.Form1.resources
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\obj\x64\Release\Locations.FrmCatalogCountries.resources
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\obj\x64\Release\Locations.Resources.resources
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\obj\x64\Release\Catalogo Paises.vbproj.GenerateResource.cache
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\obj\x64\Release\Catalogo Paises.vbproj.CoreCompileInputs.cache
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\obj\x64\Release\Catalogo Paises.vbproj.CopyComplete
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\obj\x64\Release\Locations.dll
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\obj\x64\Release\Locations.xml
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Ubicaciones\obj\x64\Release\Locations.pdb

@@ -1,0 +1,36 @@
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\Archivos del programa\ClientDb.dll
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\Archivos del programa\ClientDb.pdb
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\Archivos del programa\ClientDb.xml
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\Conexion\ClientDb\obj\Release\ClientDb.Resources.resources
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\Conexion\ClientDb\obj\Release\ClientDb.vbproj.GenerateResource.cache
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\Conexion\ClientDb\obj\Release\ClientDb.vbproj.CoreCompileInputs.cache
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\Conexion\ClientDb\obj\Release\ClientDb.dll
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\Conexion\ClientDb\obj\Release\ClientDb.xml
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\Conexion\ClientDb\obj\Release\ClientDb.pdb
+C:\Users\Informatica\Downloads\Catalogo Clientes\Archivos del programa\ClientDb.dll
+C:\Users\Informatica\Downloads\Catalogo Clientes\Archivos del programa\ClientDb.pdb
+C:\Users\Informatica\Downloads\Catalogo Clientes\Archivos del programa\ClientDb.xml
+C:\Users\Informatica\Downloads\Catalogo Clientes\Conexion\ClientDb\obj\Release\ClientDb.Resources.resources
+C:\Users\Informatica\Downloads\Catalogo Clientes\Conexion\ClientDb\obj\Release\ClientDb.vbproj.GenerateResource.cache
+C:\Users\Informatica\Downloads\Catalogo Clientes\Conexion\ClientDb\obj\Release\ClientDb.vbproj.CoreCompileInputs.cache
+C:\Users\Informatica\Downloads\Catalogo Clientes\Conexion\ClientDb\obj\Release\ClientDb.dll
+C:\Users\Informatica\Downloads\Catalogo Clientes\Conexion\ClientDb\obj\Release\ClientDb.xml
+C:\Users\Informatica\Downloads\Catalogo Clientes\Conexion\ClientDb\obj\Release\ClientDb.pdb
+C:\Users\Informatica\Downloads\Archivos del programa\ClientDb.dll
+C:\Users\Informatica\Downloads\Archivos del programa\ClientDb.pdb
+C:\Users\Informatica\Downloads\Archivos del programa\ClientDb.xml
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Archivos del programa\ClientDb.dll
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Archivos del programa\ClientDb.pdb
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Archivos del programa\ClientDb.xml
+C:\Users\Cartoimagen\Desktop\SIA(Copia local)\Catalogo Clientes\Conexion\ClientDb\obj\Release\ClientDb.vbproj.AssemblyReference.cache
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Archivos del programa\ClientDb.dll
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Archivos del programa\ClientDb.pdb
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Archivos del programa\ClientDb.xml
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\Conexion\ClientDb\obj\Release\ClientDb.Resources.resources
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\Conexion\ClientDb\obj\Release\ClientDb.vbproj.GenerateResource.cache
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\Conexion\ClientDb\obj\Release\ClientDb.vbproj.CoreCompileInputs.cache
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\Conexion\ClientDb\obj\Release\ClientDb.dll
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\Conexion\ClientDb\obj\Release\ClientDb.xml
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\Conexion\ClientDb\obj\Release\ClientDb.pdb
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Archivos del programa\ClientDb.dll.config
+C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Catalogo Clientes\Conexion\ClientDb\obj\Release\ClientDb.Form1.resources

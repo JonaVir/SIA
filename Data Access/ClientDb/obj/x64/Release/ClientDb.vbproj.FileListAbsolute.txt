@@ -1,0 +1,11 @@
+C:\Users\Informatica\Downloads\Catalogo Clientes\Conexion\ClientDb\obj\x64\Release\ClientDb.vbproj.AssemblyReference.cache
+C:\Users\Informatica\Downloads\Catalogo Clientes\Conexion\ClientDb\obj\x64\Release\ClientDb.Resources.resources
+C:\Users\Informatica\Downloads\Catalogo Clientes\Conexion\ClientDb\obj\x64\Release\ClientDb.vbproj.GenerateResource.cache
+C:\Users\Informatica\Downloads\Catalogo Clientes\Conexion\ClientDb\obj\x64\Release\ClientDb.vbproj.CoreCompileInputs.cache
+C:\Users\Informatica\Downloads\Catalogo Clientes\Conexion\ClientDb\obj\x64\Release\ClientDb.vbproj.CopyComplete
+C:\Users\Informatica\Downloads\Catalogo Clientes\Conexion\ClientDb\obj\x64\Release\ClientDb.dll
+C:\Users\Informatica\Downloads\Catalogo Clientes\Conexion\ClientDb\obj\x64\Release\ClientDb.xml
+C:\Users\Informatica\Downloads\Catalogo Clientes\Conexion\ClientDb\obj\x64\Release\ClientDb.pdb
+C:\Users\Informatica\Downloads\Catalogo Clientes\Conexion\ClientDb.dll
+C:\Users\Informatica\Downloads\Catalogo Clientes\Conexion\ClientDb.pdb
+C:\Users\Informatica\Downloads\Catalogo Clientes\Conexion\ClientDb.xml
