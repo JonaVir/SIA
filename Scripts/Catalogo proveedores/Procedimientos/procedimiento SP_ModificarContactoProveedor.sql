@@ -7,6 +7,7 @@ go
 
 create procedure SP_ModificarContactoProveedor(
 @id int,
+@idProveedor int,
 @NombreCompleto nvarchar(85),
 @Telefono nvarchar(15),
 @Extension nvarchar(5),
@@ -17,4 +18,4 @@ create procedure SP_ModificarContactoProveedor(
 
 as
 
-update ContactosProveedores set Nombre = @NombreCompleto, Telefono = @Telefono, Extension = @Extension, Celular = @Celular, Correo = @Correo, Puesto = @puesto where IdProveedor = @id
+update ContactosProveedores set Nombre = @NombreCompleto, Telefono = @Telefono, Extension = @Extension, Celular = @Celular, Correo = @Correo, Puesto = @puesto where IdProveedor = @idProveedor and id = @id

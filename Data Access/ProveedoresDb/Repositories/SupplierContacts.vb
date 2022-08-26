@@ -74,28 +74,33 @@ Public Class SupplierContacts
         setConnection(connectionString)
         loadContacts()
 
-        filter = New DataView()
-
-        With filter
-            .Table = listOfContacts
-            .AllowDelete = False
-            .AllowEdit = False
-            .AllowNew = False
-            .ApplyDefaultSort = True
-
-        End With
-
     End Sub
 #End Region
 
 #Region "Methods"
-
     Private Sub loadContacts()
 
         Query = "select * from ContactosProveedores"
 
         listOfContacts = ExecuteRead()
         listOfContacts.TableName = "ContactosProveedores"
+
+        If filter Is Nothing Then
+
+            filter = New DataView()
+
+            With filter
+
+                .AllowDelete = False
+                .AllowEdit = False
+                .AllowNew = False
+                .ApplyDefaultSort = True
+
+            End With
+
+        End If
+
+        filter.Table = listOfContacts
 
     End Sub
 
@@ -115,7 +120,7 @@ Public Class SupplierContacts
 
             Query = "SP_GuardarContactoProveedor"
 
-            parameters = New SqlParameter("@id", supplierID)
+            parameters = New SqlParameter("@idProveedor", supplierID)
             parameters = New SqlParameter("@NombreCompleto", _FullName)
             parameters = New SqlParameter("@Telefono", _Telephone)
             parameters = New SqlParameter("@Extension", _Extension)
@@ -181,15 +186,17 @@ Public Class SupplierContacts
 
     End Function
 
-    Public Function delete(supplierID As Integer) As Boolean
+    Public Function delete(supplierID As Integer, ContactID As Integer) As Boolean
 
         Me.SupplierID = supplierID
+        Me.NumRecord = ContactID
 
         If ValidateData(TypeValidation.DeleteQuery) Then
 
             Query = "SP_EliminarContactoProveedor"
 
-            parameters = New SqlParameter("@id", supplierID)
+            parameters = New SqlParameter("@id", ContactID)
+            parameters = New SqlParameter("@idProveedor", supplierID)
 
             If ExecuteQuery(IDbAdapter.typeQuery.StoredProcedure) Then
 
@@ -261,6 +268,13 @@ Public Class SupplierContacts
                 End If
 
             Case TypeValidation.UpdateQuery
+
+                If NumRecord = 0 Then
+
+                    flag = False
+                    _Messages &= "  - Id Contacto" & vbNewLine
+
+                End If
 
                 If SupplierID = 0 Then
 

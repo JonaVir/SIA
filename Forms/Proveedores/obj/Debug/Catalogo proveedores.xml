@@ -32,6 +32,11 @@ Catalogo proveedores
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:Catalogo_proveedores.My.Resources.Resources.Agregar_Elemento">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:Catalogo_proveedores.My.Resources.Resources.Cancelar_Operacion">
 <summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
@@ -42,7 +47,17 @@ Catalogo proveedores
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:Catalogo_proveedores.My.Resources.Resources.editar1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:Catalogo_proveedores.My.Resources.Resources.eliminar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Catalogo_proveedores.My.Resources.Resources.eliminar1">
 <summary>
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>

@@ -140,6 +140,9 @@
     <EmbeddedResource Include="Forms\FrmSelectSuppliers.resx">
       <DependentUpon>FrmSelectSuppliers.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmSupliersContacts.resx">
+      <DependentUpon>FrmSupliersContacts.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
@@ -188,6 +191,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Entypo_d83d%280%29_24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Agregar Elemento.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eliminar1.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>

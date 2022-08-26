@@ -7,3 +7,4 @@ C:\Users\Informatica\Downloads\SIA(Copia local)\Data Access\ProveedoresDb\obj\Re
 C:\Users\Informatica\Downloads\SIA(Copia local)\Data Access\ProveedoresDb\obj\Release\ProveedoresDb.dll
 C:\Users\Informatica\Downloads\SIA(Copia local)\Data Access\ProveedoresDb\obj\Release\ProveedoresDb.xml
 C:\Users\Informatica\Downloads\SIA(Copia local)\Data Access\ProveedoresDb\obj\Release\ProveedoresDb.pdb
+C:\Users\Informatica\Downloads\SIA(Copia local)\Data Access\ProveedoresDb\obj\Release\ProveedoresDb.vbproj.AssemblyReference.cache

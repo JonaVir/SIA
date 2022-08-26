@@ -46,3 +46,4 @@ C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Forms\Proveedores\bin\Debug\loca
 C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Forms\Proveedores\bin\Debug\ProveedoresDb.pdb
 C:\Users\Cartoimagen\Downloads\SIA(Copia local)\Forms\Proveedores\bin\Debug\ProveedoresDb.xml
 C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\obj\Debug\Catalogo_proveedores.FrmSelectSuppliers.resources
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\obj\Debug\Catalogo_proveedores.FrmSupliersContacts.resources

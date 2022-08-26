@@ -259,7 +259,17 @@ Public Class FrmProveedores
     Public WriteOnly Property ListOfContacts As DataTable
         Set(value As DataTable)
 
-            dgvContacts.DataSource = value
+            If value IsNot Nothing Then
+
+                dgvContacts.DataSource = value
+
+                dgvContacts.Columns(1).Visible = False
+
+            Else
+
+                dgvContacts.DataSource = Nothing
+
+            End If
 
         End Set
     End Property
@@ -297,7 +307,7 @@ Public Class FrmProveedores
         ScreenSelectSuppliers = New FrmSelectSuppliers(SuppliersRepository, SuppliersContactsRepository, SuppliersBankDetailsRepository, Permissions)
         Me.AddOwnedForm(ScreenSelectSuppliers)
 
-        ScreenSuppliersContacts = New FrmSupliersContacts()
+        ScreenSuppliersContacts = New FrmSupliersContacts(SuppliersContactsRepository)
         Me.AddOwnedForm(ScreenSuppliersContacts)
 
         ScreenSuppliersBankDetails = New FrmSuppliersBankDetails()
@@ -447,6 +457,58 @@ Public Class FrmProveedores
         End With
 
     End Sub
+
+    Private Sub DeleteSupplier()
+
+        With SuppliersRepository
+
+            If .Delete(SupplierID) = True Then
+
+                MsgBox(.Messages, MsgBoxStyle.Information)
+
+                MainPanel.Visible = False
+                PanelContentMenu.Visible = False
+                PanelMenuDataSuppliers.Visible = False
+
+                btnModifySupplier.Visible = False
+                btnDeleteSupplier.Visible = False
+
+                insertPermission = Permissions.Contains("INS")
+                ExportDataPermission = Permissions.Contains("LIS")
+
+                ClearForm()
+
+            Else
+
+                MsgBox(.Messages, MsgBoxStyle.Exclamation)
+
+            End If
+
+        End With
+
+    End Sub
+
+    Private Sub ClearForm()
+
+        cdtSupplierName.Text = Nothing
+        cdtTelephone.Text = Nothing
+        CkBxActivo.Checked = False
+        cdtWeb.Text = Nothing
+        cdtRFC.Text = Nothing
+        CdtCURP.Text = Nothing
+        cdtStreet.Text = Nothing
+        cdtNumberInterior.Text = Nothing
+        cdtNumberExterior.Text = Nothing
+        cbxMunicipality.Text = Nothing
+        cbxState.Text = Nothing
+        cbxCountry.Text = Nothing
+        cdtColony.Text = Nothing
+        cdtPostalCode.Text = Nothing
+        ListOfContacts = Nothing
+        ListOfBankDetails = Nothing
+
+    End Sub
+
 #End Region
 
 #Region "Methods of events"
@@ -487,21 +549,8 @@ Public Class FrmProveedores
         PanelContentMenu.Visible = False
         PanelMenuDataSuppliers.Visible = False
 
+        ClearForm()
 
-        cdtSupplierName.Text = Nothing
-        cdtTelephone.Text = Nothing
-        CkBxActivo.Checked = False
-        cdtWeb.Text = Nothing
-        cdtRFC.Text = Nothing
-        CdtCURP.Text = Nothing
-        cdtStreet.Text = Nothing
-        cdtNumberInterior.Text = Nothing
-        cdtNumberExterior.Text = Nothing
-        cbxMunicipality.Text = Nothing
-        cbxState.Text = Nothing
-        cbxCountry.Text = Nothing
-        cdtColony.Text = Nothing
-        cdtPostalCode.Text = Nothing
 
     End Sub
 
@@ -516,6 +565,18 @@ Public Class FrmProveedores
         ModifySupplier()
 
     End Sub
+
+    Private Sub btnDeleteSupplier_Click(sender As Object, e As EventArgs) Handles btnDeleteSupplier.Click
+
+        If MsgBox("¿Eliminar Proveedor?", MsgBoxStyle.Question + vbYesNo) = vbYes Then
+
+            DeleteSupplier()
+
+
+        End If
+
+    End Sub
+
     Private Sub btnCancel_Click(sender As Object, e As EventArgs) Handles btnCancel.Click
 
         MainPanel.Visible = False
@@ -524,6 +585,7 @@ Public Class FrmProveedores
 
         btnAddSupplier.Visible = True
         btnSelectSupplier.Visible = True
+        btnExportData.Visible = Permissions.Contains("LIS")
 
     End Sub
 
@@ -550,6 +612,59 @@ Public Class FrmProveedores
         SelectMenuItem(sender)
 
     End Sub
+
+    Private Sub btnAddContact_Click(sender As Object, e As EventArgs) Handles btnAddContact.Click
+
+        ScreenSuppliersContacts.SupplierID = SupplierID
+        ScreenSuppliersContacts.OpenAS = 1
+        ScreenSuppliersContacts.ShowDialog()
+
+    End Sub
+
+    Private Sub BtnModifyContact_Click(sender As Object, e As EventArgs) Handles BtnModifyContact.Click
+
+        If Me.dgvContacts.CurrentRow IsNot Nothing Then
+
+            With ScreenSuppliersContacts
+
+                .OpenAS = 2
+                .SupplierID = SupplierID
+                .ContactID = Me.dgvContacts.CurrentRow.Cells(0).Value.ToString()
+                .ContactName = Me.dgvContacts.CurrentRow.Cells(2).Value.ToString()
+                .Telephone = Me.dgvContacts.CurrentRow.Cells(3).Value.ToString()
+                .Extension = Me.dgvContacts.CurrentRow.Cells(4).Value.ToString()
+                .Cellphone = Me.dgvContacts.CurrentRow.Cells(5).Value.ToString()
+                .Email = Me.dgvContacts.CurrentRow.Cells(6).Value.ToString()
+                .JobPosition = Me.dgvContacts.CurrentRow.Cells(7).Value.ToString()
+
+                ScreenSuppliersContacts.ShowDialog()
+
+            End With
+
+
+        End If
+
+    End Sub
+
+    Private Sub btnDeleteContact_Click(sender As Object, e As EventArgs) Handles btnDeleteContact.Click
+
+        If Me.dgvContacts.CurrentRow IsNot Nothing AndAlso MsgBox("¿Eliminar Contacto?", MsgBoxStyle.Question + vbYesNo) = vbYes Then
+
+            If SuppliersContactsRepository.delete(SupplierID, Me.dgvContacts.CurrentRow.Cells(0).Value) = True Then
+
+                MsgBox(SuppliersContactsRepository.Messages, MsgBoxStyle.Information)
+                ListOfContacts = SuppliersContactsRepository.getContacts(SupplierID)
+
+            Else
+
+                MsgBox(SuppliersContactsRepository.Messages, MsgBoxStyle.Exclamation)
+
+            End If
+
+        End If
+
+    End Sub
+
 #End Region
 
 #Region "Design"
