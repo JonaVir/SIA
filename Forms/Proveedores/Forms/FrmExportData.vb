@@ -3,17 +3,18 @@ Imports CrystalDecisions.CrystalReports.Engine
 Imports CrystalDecisions.Shared
 Public Class FrmExportData
 
-#Region "Fields and properties"
+#Region "Field and properties"
+
     Private Connection As SqlClient.SqlConnectionStringBuilder
-    Private Dierctory As String
+    Private directory As String
     Private DocName As String
 
-    Private Report As customerReport
+    Private Report As SuppliersReport
     Private ConexInfo As ConnectionInfo
-    Private ListaTablas As Tables
-    Private tablaReport As Table
-    Private TablaConexion As TableLogOnInfo
-    Private ArchivoDestino As DiskFileDestinationOptions = Nothing
+    Private ListOfTables As Tables
+    Private TableReport As Table
+    Private ConnectionTable As TableLogOnInfo
+    Private FileDestiny As DiskFileDestinationOptions = Nothing
 
 #End Region
 
@@ -25,9 +26,10 @@ Public Class FrmExportData
         InitializeComponent()
 
         ' Agregue cualquier inicialización después de la llamada a InitializeComponent().
+
         Connection = New SqlClient.SqlConnectionStringBuilder(ConnectionString)
-        Report = New customerReport()
-        ArchivoDestino = New DiskFileDestinationOptions()
+        Report = New SuppliersReport()
+        FileDestiny = New DiskFileDestinationOptions()
 
     End Sub
 
@@ -50,21 +52,21 @@ Public Class FrmExportData
 
         End With
 
-        ListaTablas = Report.Database.Tables
+        ListOfTables = Report.Database.Tables
 
-        For Each tablaReport In ListaTablas
+        For Each tablaReport In ListOfTables
 
-            TablaConexion = tablaReport.LogOnInfo
-            TablaConexion.ConnectionInfo = ConexInfo
-            tablaReport.ApplyLogOnInfo(TablaConexion)
+            ConnectionTable = tablaReport.LogOnInfo
+            ConnectionTable.ConnectionInfo = ConexInfo
+            tablaReport.ApplyLogOnInfo(ConnectionTable)
 
         Next
 
-        If ArchivoDestino IsNot Nothing Then
+        If FileDestiny IsNot Nothing Then
 
             Report.ExportOptions.ExportDestinationType = ExportDestinationType.DiskFile
             Report.ExportOptions.ExportFormatType = ExportFormatType.Excel
-            Report.ExportOptions.ExportDestinationOptions = ArchivoDestino
+            Report.ExportOptions.ExportDestinationOptions = FileDestiny
 
         End If
 
@@ -73,7 +75,7 @@ Public Class FrmExportData
     Private Sub Export(ruta As String, DocName As String)
 
         Dim myruta As String = ruta & "\" & DocName & ".xls"
-        ArchivoDestino.DiskFileName = myruta
+        FileDestiny.DiskFileName = myruta
         LoadReport()
         Report.Export()
 
@@ -99,7 +101,11 @@ Public Class FrmExportData
 
         If cdtName.Text <> Nothing And CdtRuta.Text <> Nothing Then
 
+            Cursor = Cursors.WaitCursor
+
             Export(Trim(CdtRuta.Text), Trim(cdtName.Text))
+
+            Cursor = Cursors.Default
 
         End If
 

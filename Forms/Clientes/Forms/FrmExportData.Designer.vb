@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class FrmExportData
     Inherits System.Windows.Forms.Form
 
     'Form reemplaza a Dispose para limpiar la lista de componentes.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,7 +20,7 @@ Partial Class FrmExportData
     'NOTA: el Diseñador de Windows Forms necesita el siguiente procedimiento
     'Se puede modificar usando el Diseñador de Windows Forms.  
     'No lo modifique con el editor de código.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(FrmExportData))
         Me.Label1 = New System.Windows.Forms.Label()
@@ -30,7 +30,6 @@ Partial Class FrmExportData
         Me.btnExaminar = New CustomControls.ControlesPersonalizados.CustomButton()
         Me.btnExport = New CustomControls.ControlesPersonalizados.CustomButton()
         Me.FolderBrowserDialog1 = New System.Windows.Forms.FolderBrowserDialog()
-        Me.OpenFileDialog1 = New System.Windows.Forms.OpenFileDialog()
         Me.SuspendLayout()
         '
         'Label1
@@ -137,10 +136,6 @@ Partial Class FrmExportData
         '
         Me.FolderBrowserDialog1.RootFolder = System.Environment.SpecialFolder.MyComputer
         '
-        'OpenFileDialog1
-        '
-        Me.OpenFileDialog1.FileName = "OpenFileDialog1"
-        '
         'FrmExportData
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 17.0!)
@@ -173,5 +168,4 @@ Partial Class FrmExportData
     Friend WithEvents btnExaminar As CustomControls.ControlesPersonalizados.CustomButton
     Friend WithEvents btnExport As CustomControls.ControlesPersonalizados.CustomButton
     Friend WithEvents FolderBrowserDialog1 As FolderBrowserDialog
-    Friend WithEvents OpenFileDialog1 As OpenFileDialog
 End Class

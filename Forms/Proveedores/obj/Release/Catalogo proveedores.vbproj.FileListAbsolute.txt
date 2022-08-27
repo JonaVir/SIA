@@ -1,0 +1,18 @@
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\obj\Release\Catalogo proveedores.vbproj.AssemblyReference.cache
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\obj\Release\proveedores.Form1.resources
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\obj\Release\proveedores.FrmExportData.resources
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\obj\Release\proveedores.FrmProveedores.resources
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\obj\Release\proveedores.FrmSelectSuppliers.resources
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\obj\Release\proveedores.FrmSupliersContacts.resources
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\obj\Release\proveedores.FrmSuppliersBankDetails.resources
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\obj\Release\proveedores.Resources.resources
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\obj\Release\Catalogo proveedores.vbproj.GenerateResource.cache
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\obj\Release\Catalogo proveedores.vbproj.CoreCompileInputs.cache
+C:\Users\Informatica\Downloads\SIA(Copia local)\Archivos del programa\proveedores.dll.config
+C:\Users\Informatica\Downloads\SIA(Copia local)\Archivos del programa\proveedores.dll
+C:\Users\Informatica\Downloads\SIA(Copia local)\Archivos del programa\proveedores.pdb
+C:\Users\Informatica\Downloads\SIA(Copia local)\Archivos del programa\proveedores.xml
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\obj\Release\Catalogo proveedores.vbproj.CopyComplete
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\obj\Release\proveedores.dll
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\obj\Release\proveedores.xml
+C:\Users\Informatica\Downloads\SIA(Copia local)\Forms\Proveedores\obj\Release\proveedores.pdb

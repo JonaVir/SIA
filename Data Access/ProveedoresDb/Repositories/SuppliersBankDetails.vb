@@ -76,18 +76,6 @@ Public Class SuppliersBankDetails
         setConnection(connectionString)
         loadAccounts()
 
-        filter = New DataView()
-
-        With filter
-
-            .Table = listOfAccount
-            .AllowDelete = False
-            .AllowEdit = False
-            .AllowNew = False
-            .ApplyDefaultSort = True
-
-        End With
-
     End Sub
 #End Region
 
@@ -99,6 +87,23 @@ Public Class SuppliersBankDetails
 
         listOfAccount = ExecuteRead()
         listOfAccount.TableName = "DatosBancariosProveedor"
+
+        If filter Is Nothing Then
+
+            filter = New DataView()
+
+            With filter
+
+                .AllowDelete = False
+                .AllowEdit = False
+                .AllowNew = False
+                .ApplyDefaultSort = True
+
+            End With
+
+        End If
+
+        filter.Table = listOfAccount
 
     End Sub
 
@@ -147,7 +152,7 @@ Public Class SuppliersBankDetails
 
     Public Function modify(supplierID As Integer, id As Integer) As Boolean
 
-        Me.suppliersID = suppliersID
+        Me.suppliersID = supplierID
         Me.NumRecord = id
 
         If ValidateData(TypeValidation.UpdateQuery) Then
@@ -184,7 +189,7 @@ Public Class SuppliersBankDetails
 
     Public Function Delete(supplierID As Integer, id As Integer)
 
-        Me.suppliersID = suppliersID
+        Me.suppliersID = supplierID
         Me.NumRecord = id
 
         If ValidateData(TypeValidation.DeleteQuery) Then
@@ -237,7 +242,7 @@ Public Class SuppliersBankDetails
                 If suppliersID = 0 Then
 
                     flag = False
-                    _Messages = "   - Id Proveedor" & vbNewLine
+                    _Messages &= "   - Id Proveedor" & vbNewLine
 
                 End If
 
@@ -288,7 +293,7 @@ Public Class SuppliersBankDetails
                 If suppliersID = 0 Then
 
                     flag = False
-                    _Messages = "   - Id Proveedor" & vbNewLine
+                    _Messages &= "   - Id Proveedor" & vbNewLine
 
                 End If
 
@@ -339,7 +344,7 @@ Public Class SuppliersBankDetails
                 If suppliersID = 0 Then
 
                     flag = False
-                    _Messages = "   - Id Proveedor" & vbNewLine
+                    _Messages &= "   - Id Proveedor" & vbNewLine
 
                 End If
 

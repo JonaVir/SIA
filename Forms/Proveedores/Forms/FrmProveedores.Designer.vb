@@ -130,7 +130,7 @@ Partial Class FrmProveedores
         Me.btnExportData.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.btnExportData.Font = New System.Drawing.Font("Century Gothic", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnExportData.ForeColor = System.Drawing.Color.Black
-        Me.btnExportData.Image = Global.Catalogo_proveedores.My.Resources.Resources.Excel
+        Me.btnExportData.Image = Global.proveedores.My.Resources.Resources.Excel
         Me.btnExportData.Location = New System.Drawing.Point(653, 4)
         Me.btnExportData.Name = "btnExportData"
         Me.btnExportData.Size = New System.Drawing.Size(119, 48)
@@ -153,7 +153,7 @@ Partial Class FrmProveedores
         Me.btnSelectSupplier.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.btnSelectSupplier.Font = New System.Drawing.Font("Century Gothic", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnSelectSupplier.ForeColor = System.Drawing.Color.Black
-        Me.btnSelectSupplier.Image = Global.Catalogo_proveedores.My.Resources.Resources.Seleccionar_persona
+        Me.btnSelectSupplier.Image = Global.proveedores.My.Resources.Resources.Seleccionar_persona
         Me.btnSelectSupplier.Location = New System.Drawing.Point(532, 4)
         Me.btnSelectSupplier.Name = "btnSelectSupplier"
         Me.btnSelectSupplier.Size = New System.Drawing.Size(93, 48)
@@ -176,7 +176,7 @@ Partial Class FrmProveedores
         Me.btnAddSupplier.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.btnAddSupplier.Font = New System.Drawing.Font("Century Gothic", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnAddSupplier.ForeColor = System.Drawing.Color.Black
-        Me.btnAddSupplier.Image = Global.Catalogo_proveedores.My.Resources.Resources.Add_Client
+        Me.btnAddSupplier.Image = Global.proveedores.My.Resources.Resources.Add_Client
         Me.btnAddSupplier.Location = New System.Drawing.Point(406, 4)
         Me.btnAddSupplier.Name = "btnAddSupplier"
         Me.btnAddSupplier.Size = New System.Drawing.Size(126, 48)
@@ -199,7 +199,7 @@ Partial Class FrmProveedores
         Me.btnCancel.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.btnCancel.Font = New System.Drawing.Font("Century Gothic", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnCancel.ForeColor = System.Drawing.Color.Black
-        Me.btnCancel.Image = Global.Catalogo_proveedores.My.Resources.Resources.Cancelar_Operacion
+        Me.btnCancel.Image = Global.proveedores.My.Resources.Resources.Cancelar_Operacion
         Me.btnCancel.Location = New System.Drawing.Point(313, 4)
         Me.btnCancel.Name = "btnCancel"
         Me.btnCancel.Size = New System.Drawing.Size(93, 48)
@@ -223,7 +223,7 @@ Partial Class FrmProveedores
         Me.btnDeleteSupplier.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.btnDeleteSupplier.Font = New System.Drawing.Font("Century Gothic", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnDeleteSupplier.ForeColor = System.Drawing.Color.Black
-        Me.btnDeleteSupplier.Image = Global.Catalogo_proveedores.My.Resources.Resources.eliminar
+        Me.btnDeleteSupplier.Image = Global.proveedores.My.Resources.Resources.eliminar
         Me.btnDeleteSupplier.Location = New System.Drawing.Point(205, 4)
         Me.btnDeleteSupplier.Name = "btnDeleteSupplier"
         Me.btnDeleteSupplier.Size = New System.Drawing.Size(108, 48)
@@ -247,7 +247,7 @@ Partial Class FrmProveedores
         Me.btnModifySupplier.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.btnModifySupplier.Font = New System.Drawing.Font("Century Gothic", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnModifySupplier.ForeColor = System.Drawing.Color.Black
-        Me.btnModifySupplier.Image = Global.Catalogo_proveedores.My.Resources.Resources.editar
+        Me.btnModifySupplier.Image = Global.proveedores.My.Resources.Resources.editar
         Me.btnModifySupplier.Location = New System.Drawing.Point(97, 4)
         Me.btnModifySupplier.Name = "btnModifySupplier"
         Me.btnModifySupplier.Size = New System.Drawing.Size(108, 48)
@@ -271,7 +271,7 @@ Partial Class FrmProveedores
         Me.btnSaveSupplier.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.btnSaveSupplier.Font = New System.Drawing.Font("Century Gothic", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnSaveSupplier.ForeColor = System.Drawing.Color.Black
-        Me.btnSaveSupplier.Image = Global.Catalogo_proveedores.My.Resources.Resources.Guardar_Datos
+        Me.btnSaveSupplier.Image = Global.proveedores.My.Resources.Resources.Guardar_Datos
         Me.btnSaveSupplier.Location = New System.Drawing.Point(4, 4)
         Me.btnSaveSupplier.Name = "btnSaveSupplier"
         Me.btnSaveSupplier.Size = New System.Drawing.Size(93, 48)
@@ -795,7 +795,7 @@ Partial Class FrmProveedores
         Me.dgvContacts.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None
         DataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle1.BackColor = System.Drawing.Color.SteelBlue
-        DataGridViewCellStyle1.Font = New System.Drawing.Font("Century Gothic", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle1.Font = New System.Drawing.Font("Century Gothic", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle1.ForeColor = System.Drawing.Color.White
         DataGridViewCellStyle1.SelectionBackColor = System.Drawing.Color.SteelBlue
         DataGridViewCellStyle1.SelectionForeColor = System.Drawing.Color.White
@@ -864,7 +864,7 @@ Partial Class FrmProveedores
         Me.btnDeleteContact.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.btnDeleteContact.Font = New System.Drawing.Font("Century Gothic", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnDeleteContact.ForeColor = System.Drawing.Color.Black
-        Me.btnDeleteContact.Image = Global.Catalogo_proveedores.My.Resources.Resources.eliminar1
+        Me.btnDeleteContact.Image = Global.proveedores.My.Resources.Resources.eliminar1
         Me.btnDeleteContact.Location = New System.Drawing.Point(199, 4)
         Me.btnDeleteContact.Name = "btnDeleteContact"
         Me.btnDeleteContact.Size = New System.Drawing.Size(100, 32)
@@ -888,7 +888,7 @@ Partial Class FrmProveedores
         Me.BtnModifyContact.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.BtnModifyContact.Font = New System.Drawing.Font("Century Gothic", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BtnModifyContact.ForeColor = System.Drawing.Color.Black
-        Me.BtnModifyContact.Image = Global.Catalogo_proveedores.My.Resources.Resources.editar1
+        Me.BtnModifyContact.Image = Global.proveedores.My.Resources.Resources.editar1
         Me.BtnModifyContact.Location = New System.Drawing.Point(99, 4)
         Me.BtnModifyContact.Name = "BtnModifyContact"
         Me.BtnModifyContact.Size = New System.Drawing.Size(100, 32)
@@ -912,7 +912,7 @@ Partial Class FrmProveedores
         Me.btnAddContact.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.btnAddContact.Font = New System.Drawing.Font("Century Gothic", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnAddContact.ForeColor = System.Drawing.Color.Black
-        Me.btnAddContact.Image = Global.Catalogo_proveedores.My.Resources.Resources.Agregar_Elemento
+        Me.btnAddContact.Image = Global.proveedores.My.Resources.Resources.Agregar_Elemento
         Me.btnAddContact.Location = New System.Drawing.Point(4, 4)
         Me.btnAddContact.Name = "btnAddContact"
         Me.btnAddContact.Size = New System.Drawing.Size(95, 32)
@@ -946,7 +946,7 @@ Partial Class FrmProveedores
         Me.dgvBankDetails.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None
         DataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle3.BackColor = System.Drawing.Color.SteelBlue
-        DataGridViewCellStyle3.Font = New System.Drawing.Font("Century Gothic", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle3.Font = New System.Drawing.Font("Century Gothic", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle3.ForeColor = System.Drawing.Color.White
         DataGridViewCellStyle3.SelectionBackColor = System.Drawing.Color.SteelBlue
         DataGridViewCellStyle3.SelectionForeColor = System.Drawing.Color.White
@@ -1009,7 +1009,7 @@ Partial Class FrmProveedores
         Me.btnDeleteBankDetail.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.btnDeleteBankDetail.Font = New System.Drawing.Font("Century Gothic", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnDeleteBankDetail.ForeColor = System.Drawing.Color.Black
-        Me.btnDeleteBankDetail.Image = Global.Catalogo_proveedores.My.Resources.Resources.eliminar
+        Me.btnDeleteBankDetail.Image = Global.proveedores.My.Resources.Resources.eliminar
         Me.btnDeleteBankDetail.Location = New System.Drawing.Point(199, 4)
         Me.btnDeleteBankDetail.Name = "btnDeleteBankDetail"
         Me.btnDeleteBankDetail.Size = New System.Drawing.Size(100, 32)
@@ -1033,7 +1033,7 @@ Partial Class FrmProveedores
         Me.btnModifyBankDetail.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.btnModifyBankDetail.Font = New System.Drawing.Font("Century Gothic", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnModifyBankDetail.ForeColor = System.Drawing.Color.Black
-        Me.btnModifyBankDetail.Image = Global.Catalogo_proveedores.My.Resources.Resources.editar1
+        Me.btnModifyBankDetail.Image = Global.proveedores.My.Resources.Resources.editar1
         Me.btnModifyBankDetail.Location = New System.Drawing.Point(99, 4)
         Me.btnModifyBankDetail.Name = "btnModifyBankDetail"
         Me.btnModifyBankDetail.Size = New System.Drawing.Size(100, 32)
@@ -1057,7 +1057,7 @@ Partial Class FrmProveedores
         Me.btnaddBankDetail.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.btnaddBankDetail.Font = New System.Drawing.Font("Century Gothic", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnaddBankDetail.ForeColor = System.Drawing.Color.Black
-        Me.btnaddBankDetail.Image = Global.Catalogo_proveedores.My.Resources.Resources.Agregar_Elemento
+        Me.btnaddBankDetail.Image = Global.proveedores.My.Resources.Resources.Agregar_Elemento
         Me.btnaddBankDetail.Location = New System.Drawing.Point(4, 4)
         Me.btnaddBankDetail.Name = "btnaddBankDetail"
         Me.btnaddBankDetail.Size = New System.Drawing.Size(95, 32)

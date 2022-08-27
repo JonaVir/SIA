@@ -71,7 +71,7 @@ Partial Class FrmSelectSuppliers
         Me.btnAddClient.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.btnAddClient.Font = New System.Drawing.Font("Century Gothic", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnAddClient.ForeColor = System.Drawing.Color.Black
-        Me.btnAddClient.Image = Global.Catalogo_proveedores.My.Resources.Resources.Seleccionar
+        Me.btnAddClient.Image = Global.proveedores.My.Resources.Resources.Seleccionar
         Me.btnAddClient.Location = New System.Drawing.Point(5, 5)
         Me.btnAddClient.Margin = New System.Windows.Forms.Padding(4)
         Me.btnAddClient.Name = "btnAddClient"

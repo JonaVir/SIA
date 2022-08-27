@@ -21,6 +21,7 @@ Public Class FrmProveedores
     Private ScreenSuppliersContacts As FrmSupliersContacts
     Private ScreenSuppliersBankDetails As FrmSuppliersBankDetails
     Private ScreenSelectSuppliers As FrmSelectSuppliers
+    Private ScreenExportData As FrmExportData
 
     Public WriteOnly Property insertPermission As Boolean
         Set(value As Boolean)
@@ -259,7 +260,7 @@ Public Class FrmProveedores
     Public WriteOnly Property ListOfContacts As DataTable
         Set(value As DataTable)
 
-            If value IsNot Nothing Then
+            If value IsNot Nothing AndAlso value.Rows.Count > 0 Then
 
                 dgvContacts.DataSource = value
 
@@ -277,7 +278,19 @@ Public Class FrmProveedores
     Public WriteOnly Property ListOfBankDetails As DataTable
         Set(value As DataTable)
 
-            dgvBankDetails.DataSource = value
+            If value IsNot Nothing AndAlso value.Rows.Count > 0 Then
+
+                dgvBankDetails.DataSource = value
+
+                dgvBankDetails.Columns(1).Visible = False
+                dgvBankDetails.Columns(7).Visible = False
+
+            Else
+
+                dgvBankDetails.DataSource = Nothing
+
+            End If
+
 
         End Set
     End Property
@@ -310,8 +323,11 @@ Public Class FrmProveedores
         ScreenSuppliersContacts = New FrmSupliersContacts(SuppliersContactsRepository)
         Me.AddOwnedForm(ScreenSuppliersContacts)
 
-        ScreenSuppliersBankDetails = New FrmSuppliersBankDetails()
+        ScreenSuppliersBankDetails = New FrmSuppliersBankDetails(SuppliersBankDetailsRepository)
         Me.AddOwnedForm(ScreenSuppliersBankDetails)
+
+        ScreenExportData = New FrmExportData(ConnectionString)
+        Me.AddOwnedForm(ScreenExportData)
 
         loadCountries()
 
@@ -589,6 +605,12 @@ Public Class FrmProveedores
 
     End Sub
 
+    Private Sub btnExportData_Click(sender As Object, e As EventArgs) Handles btnExportData.Click
+
+        ScreenExportData.ShowDialog()
+
+    End Sub
+
     Private Sub cbxCountry_SelectedIndexChanged(sender As Object, e As EventArgs) Handles cbxCountry.SelectedIndexChanged
 
         loadStates(Country)
@@ -641,7 +663,6 @@ Public Class FrmProveedores
 
             End With
 
-
         End If
 
     End Sub
@@ -658,6 +679,61 @@ Public Class FrmProveedores
             Else
 
                 MsgBox(SuppliersContactsRepository.Messages, MsgBoxStyle.Exclamation)
+
+            End If
+
+        End If
+
+    End Sub
+
+    Private Sub btnaddBankDetail_Click(sender As Object, e As EventArgs) Handles btnaddBankDetail.Click
+
+
+        With ScreenSuppliersBankDetails
+
+            .openAs = 1
+            .SupplierID = SupplierID
+            .ShowDialog()
+
+        End With
+
+    End Sub
+
+    Private Sub btnModifyBankDetail_Click(sender As Object, e As EventArgs) Handles btnModifyBankDetail.Click
+
+        If Me.dgvBankDetails.CurrentRow IsNot Nothing Then
+
+            With ScreenSuppliersBankDetails
+
+                .openAs = 2
+                .SupplierID = SupplierID
+                .AccountID = Me.dgvBankDetails.CurrentRow.Cells(0).Value
+                .BankName = Me.dgvBankDetails.CurrentRow.Cells(2).Value
+                .Clabe = Me.dgvBankDetails.CurrentRow.Cells(3).Value
+                .Account = Me.dgvBankDetails.CurrentRow.Cells(4).Value
+                .BranchOffice = Me.dgvBankDetails.CurrentRow.Cells(5).Value
+                .Titular = Me.dgvBankDetails.CurrentRow.Cells(6).Value
+                .AccountDefault = Me.dgvBankDetails.CurrentRow.Cells(7).Value
+                .ShowDialog()
+
+            End With
+
+        End If
+
+    End Sub
+
+    Private Sub btnDeleteBankDetail_Click(sender As Object, e As EventArgs) Handles btnDeleteBankDetail.Click
+
+        If Me.dgvBankDetails.CurrentRow IsNot Nothing AndAlso MsgBox("¿Eliminar Cuenta?", MsgBoxStyle.Question + vbYesNo) = vbYes Then
+
+            If SuppliersBankDetailsRepository.Delete(SupplierID, Me.dgvBankDetails.CurrentRow.Cells(0).Value) Then
+
+                MsgBox(SuppliersBankDetailsRepository.Messages, MsgBoxStyle.Information)
+                ListOfBankDetails = SuppliersBankDetailsRepository.getAccounts(SupplierID)
+
+            Else
+
+                MsgBox(SuppliersBankDetailsRepository.Messages, MsgBoxStyle.Exclamation)
 
             End If
 

@@ -22,6 +22,7 @@ Partial Class FrmSupliersContacts
     'No lo modifique con el editor de código.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(FrmSupliersContacts))
         Me.Panel1 = New System.Windows.Forms.Panel()
         Me.btnModify = New CustomControls.ControlesPersonalizados.CustomButton()
         Me.btnSave = New CustomControls.ControlesPersonalizados.CustomButton()
@@ -300,6 +301,7 @@ Partial Class FrmSupliersContacts
         Me.Font = New System.Drawing.Font("Century Gothic", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.ForeColor = System.Drawing.Color.Black
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow
+        Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Margin = New System.Windows.Forms.Padding(4)
         Me.MaximizeBox = False
         Me.Name = "FrmSupliersContacts"
